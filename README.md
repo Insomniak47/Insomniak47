@@ -8,10 +8,12 @@ I love learning the deep dark parts of the languages and frameworks I work in. I
   - C# (netcore)
   - C++ 
   - Python
+  - Ruby
  
 - Tools:
   - Docker
   - Kubernetes
+  - Kustomize
   - Terraform
   - Packer
   - [Way more]
